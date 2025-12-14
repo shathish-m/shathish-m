@@ -13,7 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/shathish-m)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:shathishmails@gmail.com)
 <br/>
-<img src="https://komarev.com/ghpvc/?username=shathish-m&style=for-the-badge&color=ff69b4" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=shathish-m&style=for-the-badge&color=654321" alt="Profile Views" />
 
 </div>
 
@@ -230,7 +230,8 @@ const shathish = {
 | **72-Hour Hackathon - Digithon 1.0** | 2024 | SRM Institute |
 | **Quiz Program on NEP Saarthi** | 2025 | SRM Institute | 
 | **Data Analysis using Microsoft Excel** | 2025 | Coursera | 
-| **Volunteer, Green Voice Global NGO** | 2024 | Green Voice Global | 
+| **MySQL Learning Explorer** | 2025 | Oracle | 
+| **Career Edge - Young Professional** | 2025 | TCS |
 
 </div>
 
