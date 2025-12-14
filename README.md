@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Header with Vibrant Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,24,12&height=200&section=header&text=Hi%20👋%20I'm%20Shathish%20M&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,24,12&height=200&section=header&text=I'm%20Shathish&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- Dynamic Typing Animation with Multiple Colors -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Django+%7C+Python+%7C+Linux+Expert+%F0%9F%90%8D;AI+%26+ML+Engineering+Student+%F0%9F%A4%96;Building+Tomorrow's+Solutions+Today+%E2%9C%A8" alt="Typing Animation" />
@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/shathish-m)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/shathish-m)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:shathishmails@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=FF7139)](https://github.com/shathish-m)
 <br/>
 <img src="https://komarev.com/ghpvc/?username=shathish-m&style=for-the-badge&color=ff69b4" alt="Profile Views" />
 
@@ -41,9 +40,9 @@ const shathish = {
         tools: ["Git", "GitHub", "VS Code", "Docker", "Figma", "Excel"],
         platforms: ["Firebase", "WordPress", "Linux"],
     },
-    currentlyLearning: "📚 System Design & Advanced Django",
+    currentlyLearning: " System Design & Advanced Django",
     2025Goals: "Build 10 impactful projects & contribute to Open Source",
-    funFact: "🚀 I automated 90% of WiFi configuration tasks using Bash!"
+    funFact: "I automated 90% of WiFi configuration tasks using Bash!"
 };
 ```
 
@@ -103,11 +102,11 @@ const shathish = {
 
 <div align="center">
 
-### 📚 **Smart Learning Management System**
+### 📚 **Smart Learning System**
 <img src="https://img.shields.io/badge/Full--Stack-Web_Application-ff69b4?style=for-the-badge" />
 
 **🎯 Impact:**
-- 🔐 Secure user authentication system
+- 🔐 Secure user authentication 
 - 📈 **50%** ↑ course access efficiency
 - 👥 **35%** ↑ user engagement
 - 🎨 Responsive & modern UI design
@@ -226,87 +225,18 @@ const shathish = {
 
 <div align="center">
 
-| 🎖️ **Achievement** | 📅 **Year** | 🏢 **Organization** | 🔗 **Link** |
-|:---|:---:|:---:|:---:|
-| 🏅 **72-Hour Hackathon - Digithon 1.0** | 2024 | SRM Institute | [View](https://github.com/shathish-m) |
-| 📝 **Quiz Program on NEP Saarthi** | 2025 | SRM Institute | [View](https://github.com/shathish-m) |
-| 📊 **Data Analysis using Microsoft Excel** | 2025 | Coursera | [View](https://github.com/shathish-m) |
-| 🌱 **Volunteer, Green Voice Global NGO** | 2024 | Green Voice Global | [View](https://github.com/shathish-m) |
+| 🎖️ **Achievement** | **Year** | **Organization** | 
+|:---|:---:|:---:|
+| **72-Hour Hackathon - Digithon 1.0** | 2024 | SRM Institute |
+| **Quiz Program on NEP Saarthi** | 2025 | SRM Institute | 
+| **Data Analysis using Microsoft Excel** | 2025 | Coursera | 
+| **Volunteer, Green Voice Global NGO** | 2024 | Green Voice Global | 
 
 </div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🎯 **Current Goals for 2025**
-
-</div>
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-mindmap
-  root((Shathish's 2025))
-    Projects
-      10+ Full Stack Apps
-      Open Source Contributions
-      Real World Solutions
-    Learning
-      Advanced Django
-      System Design
-      Cloud Computing
-      DevOps Basics
-    Career
-      Internship Opportunities
-      Networking
-      Build Portfolio
-      Technical Blogs
-    Skills
-      DSA Mastery
-      Linux Advanced
-      Docker & Kubernetes
-      Problem Solving
-```
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 💭 **Developer Wisdom**
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🤝 **Let's Connect & Collaborate!**
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <br/>
 
 ### 💼 **Open to exciting opportunities and collaborations!**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shathish-m)
-[![Email](https://img.shields.io/badge/Email-Drop_a_message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shathishmails@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shathish-m)
-
-<br/>
 
 ### ⭐ **If you find my work interesting, don't forget to star my repositories!**
 
