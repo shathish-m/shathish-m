@@ -13,7 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/shathish-m)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:shathishmails@gmail.com)
 <br/>
-<img src="https://komarev.com/ghpvc/?username=shathish-m&style=for-the-badge&color=654321" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=shathish-m&style=for-the-badge&color=006400" alt="Profile Views" />
 
 </div>
 
@@ -243,9 +243,7 @@ const shathish = {
 
 </div>
 
-<div align="center">
 ### ⭐ **If you find my work interesting, don't forget to star my repositories!**
-</div>
 
 <br/>
 
