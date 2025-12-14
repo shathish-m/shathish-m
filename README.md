@@ -10,8 +10,8 @@
 <br/>
 
 <!-- Social Badges with Hover Effects -->
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikranthpradap)](https://www.linkedin.com/in/vikranthpradap)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/vikranth2711)](https://github.com/vikranth2711)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shathish-m)](https://www.linkedin.com/in/shathish-m)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/shathish-m)](https://github.com/shathish-m)
 
 <img src="https://komarev.com/ghpvc/?username=shathish-m&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
@@ -24,8 +24,8 @@
 ```javascript
 const shathish = {
     education: "B.Tech in CSE (AI & ML) @ SRM Institute",
-    currentFocus: ["iOS Development", "Machine Learning", "Swift", "Python"],
-    askMeAbout: ["iOS Apps", "ML Models", "API Development", "Database Design"],
+    currentFocus: ["Web Developer", "Data Analytics", "SQL", "Python"],
+    askMeAbout: ["Linux", "Web Designs", "Excel", "Power BI"],
     technologies: {
         mobile: ["Swift", "SwiftUI", "UIKit", "Firebase"],
         ai_ml: ["TensorFlow", "OpenCV", "NLP", "Computer Vision"],
@@ -43,13 +43,13 @@ const shathish = {
 ## 🔥 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vikranth2711&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vikranth2711&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shathish-m&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shathish-m&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikranth2711&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" height="180"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikranth2711&theme=tokyo-night&hide_border=true&border_radius=10" alt="Contribution Graph" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shathish-m&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shathish-m&theme=tokyo-night&hide_border=true&border_radius=10" alt="Contribution Graph" height="180"/>
 </div>
 
 ---
