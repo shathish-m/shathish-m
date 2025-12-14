@@ -30,8 +30,8 @@
 ```javascript
 const shathish = {
     education: "🎓 B.Tech in CSE (AI & ML) @ SRM Institute",
-    location: "📍 Chennai, Tamil Nadu, India",
-    status: "💼 Final Year Student | 🔍 Seeking Opportunities",
+    location: "Chennai, Tamil Nadu, India",
+    status: "Final Year Student | 🔍 Seeking Opportunities",
     currentFocus: ["Full-Stack Development", "Django", "Python", "SQL"],
     askMeAbout: ["Linux Automation", "Web Development", "Shell Scripting", "UI/UX"],
     technologies: {
@@ -106,10 +106,10 @@ const shathish = {
 <img src="https://img.shields.io/badge/Full--Stack-Web_Application-ff69b4?style=for-the-badge" />
 
 **🎯 Impact:**
-- 🔐 Secure user authentication 
-- 📈 **50%** ↑ course access efficiency
-- 👥 **35%** ↑ user engagement
-- 🎨 Responsive & modern UI design
+-  Secure user authentication 
+-  **50%** ↑ course access efficiency
+-  **35%** ↑ user engagement
+-  Responsive & modern UI design
 
 **💻 Tech Stack:**
 <br/>
@@ -129,10 +129,10 @@ const shathish = {
 <img src="https://img.shields.io/badge/Frontend-Security_Focused-00d9ff?style=for-the-badge" />
 
 **🎯 Impact:**
-- ✅ Real-time form validation
-- 🚀 **40%** ↑ authentication success
-- ⚡ **25%** ↓ login time
-- 🛡️ Enhanced security & UX
+-  Real-time form validation
+-  **40%** ↑ authentication success
+-  **25%** ↓ login time
+-  Enhanced security & UX
 
 **💻 Tech Stack:**
 <br/>
@@ -154,10 +154,10 @@ const shathish = {
 <img src="https://img.shields.io/badge/Linux-Shell_Scripting-ffd700?style=for-the-badge" />
 
 **🎯 Impact:**
-- ⚡ **90%** automation of WiFi tasks
-- 🔧 **75%** ↓ manual setup effort
-- 🎯 **60%** ↓ connection errors
-- 🐧 Advanced Linux expertise
+-  **90%** automation of WiFi tasks
+-  **75%** ↓ manual setup effort
+-  **60%** ↓ connection errors
+-  Advanced Linux expertise
 
 **💻 Tech Stack:**
 <br/>
@@ -175,10 +175,10 @@ const shathish = {
 <img src="https://img.shields.io/badge/Status-In_Development-ff6b6b?style=for-the-badge" />
 
 **🎯 What's Next:**
-- 🔨 Building innovative solutions
-- 💡 Exploring new technologies
-- 🤝 Open to collaborations
-- 🚀 Stay tuned for updates!
+-  Building innovative solutions
+-  Exploring new technologies
+-  Open to collaborations
+-  Stay tuned for updates!
 
 **💻 Interests:**
 <br/>
@@ -225,7 +225,7 @@ const shathish = {
 
 <div align="center">
 
-| 🎖️ **Achievement** | **Year** | **Organization** | 
+| **Achievement** | **Year** | **Organization** | 
 |:---|:---:|:---:|
 | **72-Hour Hackathon - Digithon 1.0** | 2024 | SRM Institute |
 | **Quiz Program on NEP Saarthi** | 2025 | SRM Institute | 
@@ -236,7 +236,7 @@ const shathish = {
 
 <br/>
 
-### 💼 **Open to exciting opportunities and collaborations!**
+## **Open to exciting opportunities and collaborations!**
 
 ### ⭐ **If you find my work interesting, don't forget to star my repositories!**
 
