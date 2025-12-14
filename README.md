@@ -1,18 +1,17 @@
-# 
 <div align="center">
   
 <!-- Animated Header with Gradient -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Hi%20👋%20I'm%20Shathish%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+iOS+Enthusiast;Machine+Learning+Explorer;Building+Tomorrow's+Apps+Today;Always+Learning%2C+Always+Growing" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Django+%7C+Python+Enthusiast;Linux+Automation+Expert;AI+%26+ML+Student;Building+Impactful+Solutions" alt="Typing Animation" />
 
 <br/>
 
 <!-- Social Badges with Hover Effects -->
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shathish-m)](https://www.linkedin.com/in/shathish-m)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/shathish-m)](https://github.com/shathish-m)
-
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shathishmails@gmail.com)](mailto:shathishmails@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=shathish-m&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
 </div>
@@ -24,85 +23,123 @@
 ```javascript
 const shathish = {
     education: "B.Tech in CSE (AI & ML) @ SRM Institute",
-    currentFocus: ["Web Developer", "Data Analytics", "SQL", "Python"],
-    askMeAbout: ["Linux", "Web Designs", "Excel", "Power BI"],
+    location: "Chennai, Tamil Nadu 📍",
+    currentFocus: ["Full-Stack Development", "Django", "Python", "SQL"],
+    askMeAbout: ["Linux Automation", "Web Development", "Shell Scripting", "UI/UX"],
     technologies: {
-        mobile: ["Swift", "SwiftUI", "UIKit", "Firebase"],
-        ai_ml: ["TensorFlow", "OpenCV", "NLP", "Computer Vision"],
-        backend: ["Python", "Django", "Flask", "MySQL"],
-        cloud: ["AWS", "Firebase", "Heroku"],
-        tools: ["Xcode", "Git", "Postman", "Docker"]
+        frontend: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        backend: ["Python", "Django", "SQLite"],
+        tools: ["Git", "GitHub", "VS Code", "Docker", "Figma"],
+        platforms: ["Firebase", "WordPress"],
+        os: ["Windows", "Linux (Ubuntu)"]
     },
-    currentlyLearning: "Advanced SwiftUI & Core ML",
-    funFact: "I debug with print statements and I'm not ashamed! 🐛"
+    currentlyLearning: "System Design & Advanced Django 📚",
+    funFact: "I automated 90% of WiFi tasks! 🚀"
 };
 ```
 
 ---
 
-## 🔥 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shathish-m&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shathish-m&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shathish-m&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" height="180"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shathish-m&theme=tokyo-night&hide_border=true&border_radius=10" alt="Contribution Graph" height="180"/>
-</div>
-
----
-
-## 🛠️ Technology Arsenal
+## 💻 Tech Stack
 
 <div align="center">
 
-### 📱 Mobile Development
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🤖 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 💻 Programming Languages
+### ⚙️ Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🌐 Backend & Database
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Featured Projects
+## 🎯 Featured Projects
 
 <div align="center">
 
-| 🎯 Project | 🛠️ Tech Stack | 📝 Description | ⭐ Status |
-|------------|---------------|-----------------|-----------|
-| **[📱 Dreamio](https://github.com/vikranth2711/Dreamio)** | `Swift` `Firebase` `HealthKit` | Advanced iOS sleep tracker with haptic feedback and health integration | 🚀 Active |
-| **[🧘 RELAX](https://github.com/vikranth2711/RELAX.swiftpm)** | `SwiftUI` `Core Animation` | Mindful breathing app with elegant animations and biofeedback | ✨ Featured |
-| **[🔢 Digit Classifier](https://github.com/vikranth2711/Handwritten-Digit-Classifier)** | `TensorFlow` `CNN` `MNIST` | High-precision handwritten digit recognition (95% accuracy) | 🎯 Complete |
-| **[🦯 Blind Assist](https://github.com/vikranth2711/blind-assistance)** | `OpenCV` `Python` `YOLO` | Real-time object detection with audio guidance for accessibility | 🌟 Impact |
-| **[💬 Sentiment Analyzer](https://github.com/vikranth2711/sentiment-analysis-amazon-reviews)** | `RoBERTa` `Transformers` `NLP` | Advanced sentiment analysis for Amazon product reviews | 📊 Research |
-| **[🏋️ ZenithFit](https://github.com/vikranth2711/ZenithFit)** | `Flask` `MySQL` `Bootstrap` | Comprehensive gym management system with workout & diet tracking | 💪 Enterprise |
+<table>
+<tr>
+<td width="50%">
+
+### 📚 Smart Learning Management System
+**Full-Stack Web Application**
+
+- 🔐 User authentication & course management
+- 📈 50% improvement in course access efficiency
+- 🎨 Django backend + Bootstrap frontend
+
+**Tech:** `Python` `Django` `SQLite` `Bootstrap`
+
+</td>
+<td width="50%">
+
+### 🔑 Authentication Page
+**Secure Frontend Interface**
+
+- ✅ Real-time form validations
+- 🚀 40% improvement in auth success rates
+- 🎨 Security-focused UI design
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📡 WiFi Automation
+**Linux Shell Scripting Project**
+
+- ⚡ 90% automation of WiFi tasks
+- 🔧 75% reduction in manual setup
+- 🐧 Advanced Linux automation
+
+**Tech:** `Bash` `Ubuntu Linux` `Shell Scripting`
+
+</td>
+<td width="50%">
+
+### 🎓 More Projects Coming Soon...
+**Stay Tuned!**
+
+- 🔨 Currently building awesome stuff
+- 💡 Always learning new technologies
+- 🚀 Open to collaborations
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shathish-m&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shathish-m&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shathish-m&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
 
@@ -112,80 +149,57 @@ const shathish = {
 
 <div align="center">
 
-```yaml
-🎯 Competition Wins:
-  - 🏆 Nokia Hackathon Winner (June 2025)
-    └── "Secure Banking with AANF" - Full-stack mobile banking simulation
-    └── Tech Stack: React Native, Django, 3GPP AKMA standards
-    └── Team: 10 members, Production-ready application
-
-Cloud Computing:
-  - ☁️ AWS Academy Machine Learning
-  
-Programming:
-  - ☕ Oracle Java SE 11 Developer Professional
-  - 🐍 GitHub Foundations Certified
-  
-APIs & Development:
-  - 🔌 Postman API Fundamentals Student Expert
-  - 🌐 RESTful API Development & Testing
-  
-Machine Learning:
-  - 🧠 Kaggle Introduction to Machine Learning
-  - 🛰️ ISRO Geodata Processing with Python & ML
-  - 🔬 MathWorks: ML & Deep Learning Onramps
-  
-Design & Development:
-  - 🎨 Meta Principles of UI/UX Design
-  - 📱 iOS Development with Swift & SwiftUI
-  
-Academic Excellence:
-  - 🧮 NPTEL: Java Programming, DBMS, Computer Architecture
-  - 📊 Data Structures & Algorithms Mastery
-```
+| 🎖️ Achievement | 📅 Year | 🏢 Organization |
+|:---:|:---:|:---:|
+| **72-Hour Hackathon - Digithon 1.0** | 2024 | SRM Institute |
+| **Quiz Program on NEP Saarthi** | 2025 | SRM Institute |
+| **Data Analysis using Microsoft Excel** | 2025 | Coursera |
+| **Volunteer, Green Voice Global NGO** | 2024 | Green Voice Global |
 
 </div>
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikranth2711&theme=tokyonight" alt="GitHub Activity Graph" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikranth2711&theme=tokyonight" alt="Repos per Language" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikranth2711&theme=tokyonight" alt="Most Commit Language" height="180"/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shathish-m&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+
 </div>
 
 ---
 
-## 🎯 Current Goals
-
-- 🚀 **2025 Focus**: Master SwiftUI and Core ML integration
-- 📱 **Next Project**: AI-powered fitness companion app
-- 🌟 **Open Source**: Contribute to 10+ repositories
-- 📚 **Learning**: Advanced iOS patterns and clean architecture
-- 🤝 **Community**: Mentor aspiring iOS developers
-
----
-
-## 💬 Let's Connect!
+## 🎵 Fun Stuff
 
 <div align="center">
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Always+open+to+interesting+conversations;Let's+build+something+amazing+together!;Feel+free+to+reach+out+anytime)](mailto:vikranthprathap@gmail.com)
-
-**Thanks for visiting my profile! ⭐️**
-
-*Made with 💙 and lots of ☕*
+### 😄 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 </div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+💼 **Open to collaborations and interesting projects!**
+
+📫 **Reach out:** [shathishmails@gmail.com](mailto:shathishmails@gmail.com)
+
+🔗 **LinkedIn:** [linkedin.com/in/shathish-m](https://www.linkedin.com/in/shathish-m)
+
+💻 **GitHub:** [github.com/shathish-m](https://github.com/shathish-m)
+
+---
+
+### 💖 Thanks for visiting! Don't forget to ⭐ my repositories if you find them interesting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+
+</div>
