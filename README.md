@@ -237,9 +237,15 @@ const shathish = {
 
 <br/>
 
+<div align="center">
+  
 ## **Open to exciting opportunities and collaborations!**
 
+</div>
+
+<div align="center">
 ### ⭐ **If you find my work interesting, don't forget to star my repositories!**
+</div>
 
 <br/>
 
